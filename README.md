@@ -1,4 +1,4 @@
-# 🚀 Desarrollo de Aplicaciones en Java | Portfolio
+#  Desarrollo de Aplicaciones en Java | Portfolio
 
 ¡Bienvenido a mi repositorio principal de desarrollo! Aquí recojo mi evolución como programadora Java, enfocándome en escribir código limpio, escalable y bien estructurado.
 
